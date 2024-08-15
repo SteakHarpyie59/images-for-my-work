@@ -1,0 +1,18 @@
+{
+    "login": {
+        "img": "img/zap_login.png",
+        "url": "https://youtu.be/dQw4w9WgXcQ"
+    },
+    "main": {
+        "img": "img/zap_main.png",
+        "url": "https://youtu.be/dQw4w9WgXcQ"
+    },
+    "loginZap": {
+        "img": "img/zap_login.png",
+        "url": "https://youtu.be/dQw4w9WgXcQ"
+    },
+    "mainZap": {
+        "img": "img/zap_main.png",
+        "url": "https://youtu.be/dQw4w9WgXcQ"
+    }
+}
